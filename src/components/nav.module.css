@@ -1,0 +1,10 @@
+.nav{
+  display: block;
+  padding: 50px;
+  background-color: chocolate;
+  color: white;
+  font-size: 2em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  box-shadow: 2px 5px 5px black;
+}
